@@ -1,0 +1,2 @@
+Piotr (05:54:43) : /opt/alt/php72/usr/bin/php /home/rafkrol/domains/rafkrol.pl/public_html/auctionreminder/php_server/delete_expired_licences.php
+Piotr (05:55:01) : pomiędzy ścieżką do interpretera php a ścieżką do skryptu powinna być spacja
